@@ -6,7 +6,7 @@ tests:
       name: HassTurnOn
       slots:
         domain: cover
-        device_class: "garage"
+        device_class: garage
     response: "garage已打開"
 
   - sentences:
