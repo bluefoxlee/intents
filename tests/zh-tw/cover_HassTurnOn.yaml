@@ -7,7 +7,7 @@ tests:
       slots:
         domain: cover
         device_class: garage
-    response: "garage已打開"
+    response: "車庫已打開"
 
   - sentences:
       - "打開廚房窗戶"
